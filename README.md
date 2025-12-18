@@ -1,11 +1,11 @@
-**Google Play Store Analytics – Internship Project**
- **Project Overview**
+# **Google Play Store Analytics – Internship Project** #
+ ## **Project Overview** ##
 
 This project extends my training work on Google Play Store analytics by implementing six advanced analytical dashboards, as part of the internship assignment.
 
 The analysis uses only the provided datasets, applying business-driven filters, time-based visibility rules, and interactive visualizations.
 
-**Dataset Used**
+## **Dataset Used** ##
 
 Play Store Data.csv
 
@@ -13,7 +13,7 @@ User Reviews.csv
 
 No external datasets were used.
 
-**Tools & Technologies**
+## **Tools & Technologies** ##
 
 Python
 
@@ -25,7 +25,7 @@ Collab Notebook
 
 GitHub
 
-📈 **Implemented Dashboards**
+## 📈 **Implemented Dashboards** ##
 **Task 1 – Category Performance**
 
 Grouped bar chart comparing average rating vs total reviews
@@ -82,7 +82,7 @@ MoM growth >25% highlighted
 
 Time visibility: 4–6 PM IST
 
-**Key KPIs Measured**
+## **Key KPIs Measured** ##
 
 Total installs
 
