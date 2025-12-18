@@ -95,3 +95,15 @@ Revenue (estimated)
 Growth rates (MoM)
 
 Sentiment subjectivity
+
+## **Submission Notes** ##
+
+This project strictly follows internship instructions:
+
+Same dataset as training
+
+No external data
+
+Interactive dashboards
+
+Fully documented workflow
