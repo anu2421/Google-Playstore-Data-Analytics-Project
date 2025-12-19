@@ -94,7 +94,6 @@ Revenue (estimated)
 
 Growth rates (MoM)
 
-Sentiment subjectivity
 
 ## **Submission Notes** ##
 
