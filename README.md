@@ -97,6 +97,10 @@ Revenue (estimated)
 Growth rates (MoM)
 
 
+## **Google Looker Dashboard with KPIs** ##
+
+Link: https://lookerstudio.google.com/reporting/bb465156-8fb4-4aef-afad-1a447bc1b163
+
 ## **Submission Notes** ##
 
 This project strictly follows internship instructions:
