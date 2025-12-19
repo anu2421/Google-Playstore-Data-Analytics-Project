@@ -23,6 +23,8 @@ Plotly (interactive dashboards)
 
 Collab Notebook
 
+Google Looker
+
 GitHub
 
 ## 📈 **Implemented Dashboards** ##
